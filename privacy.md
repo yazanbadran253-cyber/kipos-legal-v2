@@ -11,8 +11,8 @@ This Privacy Policy (the "Policy") describes how GardenAI ("GardenAI," "we,"
 information when you use our mobile application and related services (together,
 the "Services"), and explains the privacy rights and choices available to you.
 
-GardenAI is operated by Yahia Abudolah, an individual developer. You can reach us
-at any time at **yahia.abudolah@gmail.com**, and we will provide a postal address
+GardenAI is operated by Yazan Badran, an individual developer. You can reach us
+at any time at **yazanbadran253@gmail.com**, and we will provide a postal address
 for correspondence on request.
 
 By using the Services, you agree to the practices described in this Policy. This
@@ -362,7 +362,7 @@ your personal information:
 - **Non-discrimination** — we will not discriminate against you for exercising
   your rights.
 
-**How to exercise your rights.** Email us at **yahia.abudolah@gmail.com** with the
+**How to exercise your rights.** Email us at **yazanbadran253@gmail.com** with the
 request you would like to make. We may need to verify your identity before acting
 on your request. Where permitted, you may use an authorized agent, in which case
 we will verify the agent's authority.
@@ -370,6 +370,33 @@ we will verify the agent's authority.
 ---
 
 ## Additional Information for Certain Jurisdictions
+
+### Canada (PIPEDA and provincial privacy law)
+
+GardenAI is operated from Ontario, Canada, and we handle personal information in
+accordance with the *Personal Information Protection and Electronic Documents Act*
+(PIPEDA) and applicable provincial privacy legislation.
+
+We collect, use, and disclose your personal information only for the purposes
+identified in this Policy, and we rely on your consent — express where the
+information is sensitive or the purpose would not be obvious, and implied where
+the purpose is evident from the circumstances, such as storing the plant data you
+enter so we can show it back to you. You may withdraw consent at any time, subject
+to legal or contractual restrictions and reasonable notice; withdrawing consent
+for processing that is necessary to run the Services may mean we can no longer
+provide them to you.
+
+You have the right to access the personal information we hold about you and to
+request correction of anything inaccurate. Contact us at
+**yazanbadran253@gmail.com** and we will respond within the time PIPEDA allows.
+If you are not satisfied with our response, you may complain to the
+[Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/), or to
+your provincial privacy commissioner where one has jurisdiction.
+
+As described under [International Transfers](#international-transfers-of-personal-information),
+your personal information may be stored or processed outside Canada, including in
+the United States, where it may be accessible to foreign courts and law
+enforcement under the laws of that country.
 
 ### United States — California (CCPA/CPRA)
 
@@ -403,16 +430,16 @@ are defined under California law.
 California residents have the rights to know/access, delete, correct, and opt out
 of any "sale"/"sharing" (not applicable here), and the right not to be
 discriminated against for exercising these rights. To exercise them, contact us at
-**yahia.abudolah@gmail.com**. You may appeal a decision by replying with "APPEAL"
+**yazanbadran253@gmail.com**. You may appeal a decision by replying with "APPEAL"
 in the subject line.
 
 ### European Economic Area, Switzerland, and United Kingdom (GDPR / UK GDPR)
 
 For individuals in the EEA, Switzerland, and the UK:
 
-**Controller.** GardenAI, operated by Yahia Abudolah, is the controller of the
+**Controller.** GardenAI, operated by Yazan Badran, is the controller of the
 personal information described in this Policy. You can contact us at
-**yahia.abudolah@gmail.com**, and we will provide a postal address for
+**yazanbadran253@gmail.com**, and we will provide a postal address for
 correspondence on request. We have not appointed an EU or UK
 representative; if that changes, this Policy will be updated. Stripe acts as an
 independent controller for the payment processing described above.
@@ -467,4 +494,4 @@ If you have any questions or concerns about this Policy or our privacy practices
 please contact us at:
 
 **GardenAI**
-Email: **yahia.abudolah@gmail.com**
+Email: **yazanbadran253@gmail.com**
