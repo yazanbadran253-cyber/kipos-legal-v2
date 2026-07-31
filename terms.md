@@ -4,7 +4,7 @@ title: GardenAI Terms of Service
 
 # GardenAI Terms of Service
 
-**Effective Date: July 26, 2026**
+**Effective Date: July 31, 2026**
 
 These Terms of Service (the "Terms") are a binding agreement between you and
 GardenAI ("GardenAI," "we," "our," or "us") governing your use of the GardenAI
@@ -23,7 +23,7 @@ and affect how disputes are resolved. Nothing in these Terms excludes rights you
 have under mandatory consumer law in your country — see
 [Consumers](#consumers) below.
 
-Our [Privacy Policy](privacy.html) explains how we handle your personal
+Our [Privacy Policy](PRIVACY.md) explains how we handle your personal
 information and forms part of these Terms.
 
 ---
@@ -134,24 +134,23 @@ billing period at the then-current price, until you cancel. **You can cancel at
 any time**, and cancellation takes effect at the end of the period you have
 already paid for.
 
-**How to cancel.** If you subscribed inside the app through our payment processor,
-cancel in the app or by contacting us. If you subscribed through the Apple App
-Store or Google Play, you must cancel in that platform's subscription settings —
-deleting the app does not cancel a subscription.
+**How to cancel.** Subscriptions are sold through the Apple App Store, so you
+cancel in that platform's subscription settings — deleting the app does not
+cancel a subscription.
 
 **Prices and changes.** Prices are shown in the app before you buy and may vary by
 country and over time. We will give you reasonable advance notice of any price
 change affecting your renewal, and you may cancel before it takes effect.
 
-**Payment.** In-app payments are processed by Stripe under its own terms. We never
-receive your full card number. You authorise us and our payment processor to
-charge your chosen payment method for the amounts due. If a payment fails, we may
-retry it and may suspend paid features until it succeeds.
+**Payment.** Payment is taken by the Apple App Store under its own terms, using
+the payment method on your app-store account. We never receive your payment
+details, and we cannot charge you directly. If a payment fails, the store may
+retry it, and we may suspend paid features until it succeeds.
 
 **Refunds.** Except where required by law or expressly stated, payments are
-non-refundable and there are no refunds for partial billing periods. If you
-purchased through the App Store or Google Play, refunds are handled by that
-platform under its policies, not by us.
+non-refundable and there are no refunds for partial billing periods. Because you
+purchase through the App Store, refunds are requested from and handled by Apple
+under its policies, not by us.
 
 **Consumers in the EEA and UK.** You generally have a statutory right to withdraw
 from a distance contract within 14 days. Where you ask us to begin providing
@@ -231,8 +230,9 @@ obligation or compensation to you.
 ## Third-Party Services
 
 The Services rely on third parties, including our hosting and authentication
-provider, our AI provider, our payment processor, and the sign-in providers you
-choose to use. Your use of Google or X to sign in is also governed by that
+provider, our AI provider, the app store that sells and processes your
+subscription, our subscription-management provider, and the sign-in providers
+you choose to use. Your use of Google or X to sign in is also governed by that
 provider's own terms and privacy policy. We are not responsible for third-party
 services, and their availability is outside our control.
 

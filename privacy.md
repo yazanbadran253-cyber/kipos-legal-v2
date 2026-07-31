@@ -4,7 +4,7 @@ title: GardenAI Privacy Policy
 
 # GardenAI Privacy Policy
 
-**Effective Date: July 26, 2026**
+**Effective Date: July 31, 2026**
 
 This Privacy Policy (the "Policy") describes how GardenAI ("GardenAI," "we,"
 "our," or "us") collects, uses, discloses, and otherwise processes your personal
@@ -111,50 +111,60 @@ requires it, ask for your consent.
   to your settings with them, and you can revoke GardenAI's access at any time
   from your Google or X account security settings. If you do, you may need
   another sign-in method to get back into your GardenAI account.
-- **Payment processor.** Our payment processor, Stripe, tells us the status of
-  your subscription and limited details about your payment method (see below).
+- **App store and subscription-management provider.** The app store you bought
+  your subscription through, and our subscription-management provider
+  RevenueCat, tell us whether your subscription is active. They do not give us
+  your payment details (see below).
 - **Service providers.** Our infrastructure providers may supply us with
   technical and usage information to help us operate, secure, and improve the
   Services.
 
 ### Payment Information
 
-GardenAI offers a paid subscription with an optional free trial. **Payments are
-processed by [Stripe](https://stripe.com/privacy)**, a third-party payment
-processor, using Stripe's own payment interface inside the app.
+GardenAI offers a paid subscription with an optional free trial. **Subscriptions
+are sold and processed by the app store you bought them through — the Apple App
+Store — under that platform's own terms.** We do not operate a payment interface,
+and we do not use an independent payment processor.
 
-- **We never receive your full card number.** When you enter payment details,
-  they are transmitted directly from your device to Stripe. Your full card
-  number, expiry date, and security code (CVC) do not pass through, and are
-  never stored on, our servers.
-- **What Stripe stores for us.** So that your subscription can renew without you
-  re-entering your card, Stripe stores your payment method and gives us a
-  **token** — a reference that lets us charge that method again. The token is not
-  a card number and cannot be used outside our Stripe account.
-- **What we store.** Your Stripe customer and subscription identifiers, your
-  plan, your subscription and trial status, renewal and cancellation dates, the
-  currency and amount charged, the country of your payment method, and
-  non-sensitive card metadata Stripe returns (such as card brand and the last
-  four digits) so we can show you which card is on file.
-- **Billing information you give Stripe.** Depending on your payment method and
-  your country, Stripe may collect your name, billing address, email address,
-  phone number, and tax-related information.
-- **Fraud prevention.** Stripe uses device and transaction signals (through its
-  fraud-prevention service, Stripe Radar) to detect and block fraudulent
-  payments. This processing happens as part of taking your payment.
+- **We never receive your payment details at all.** You pay Apple using the
+  payment method already on your app-store account. Your card number, expiry
+  date, security code, and billing address are handled entirely by Apple and are
+  never transmitted to, processed by, or stored on our systems. We do not receive
+  a card token, a card brand, or the last four digits, and we cannot charge you
+  directly.
+- **What we receive and store.** Only what is needed to know whether your
+  subscription is active: an anonymous subscriber identifier, your plan (monthly
+  or annual), your subscription and trial status, renewal, expiry and
+  cancellation dates, and whether a billing problem has been reported by the
+  store. This is linked to your GardenAI account identifier so that the features
+  you paid for are unlocked on your devices.
+- **Subscription-management provider.** We use
+  [RevenueCat](https://www.revenuecat.com/privacy) to receive and interpret the
+  purchase and renewal information the app store sends, and to tell the app
+  whether your subscription is active. RevenueCat processes this information as
+  a service provider acting on our instructions. It receives your GardenAI
+  account identifier, the store's transaction and subscription data, and basic
+  device and app information such as platform, app version, and country. It does
+  not receive your payment details either.
+- **Billing information you give Apple.** Apple may collect your name, billing
+  address, phone number, and tax-related information in connection with your
+  purchase. That collection is governed by Apple's own privacy policy, not this
+  one.
+- **Fraud prevention.** Detecting and preventing fraudulent payments,
+  chargebacks, and abuse of free trials is carried out by the app store as part
+  of processing your payment. We do not run our own payment fraud checks and do
+  not receive the signals used for them.
 
-Stripe processes payment information both on our behalf and as an **independent
-controller** for its own purposes — such as fraud prevention, regulatory
-compliance, and meeting its obligations under financial-services and
-anti-money-laundering law. Stripe's handling of your information for its own
-purposes is governed by the [Stripe Privacy Policy](https://stripe.com/privacy),
-which we encourage you to read.
+Apple processes your payment information as an independent controller for its
+own purposes, including fraud prevention, regulatory compliance, and its
+obligations under financial-services and anti-money-laundering law. Its handling
+of your information is governed by the
+[Apple Privacy Policy](https://www.apple.com/legal/privacy/), which we encourage
+you to read.
 
-**App-store billing.** If you purchase a subscription through the Apple App Store
-or Google Play instead, that platform processes the payment under its own terms,
-and we receive only the transaction and subscription-status information the
-platform passes to us. In that case Apple's or Google's privacy policy governs
-the payment itself.
+**If we add another store or payment method.** Should GardenAI later be sold
+through Google Play or take payment by another route, this Policy will be
+updated before that happens and the relevant provider named here.
 
 ### Aggregated or De-identified Information
 
@@ -178,10 +188,11 @@ We use your personal information to:
 - **Send notifications.** Deliver the plant-care reminders you have enabled.
   These reminders are scheduled **on your device** by the app; we do not operate
   a push-notification server and do not collect a push token.
-- **Take payment and manage your subscription.** Process your purchase through
-  Stripe, start and end your free trial, renew or cancel your subscription, issue
-  refunds, unlock paid features, keep records required for tax and accounting,
-  and detect and prevent payment fraud and chargebacks.
+- **Manage your subscription.** Recognise the purchase you made through the app
+  store, start and end your free trial, unlock paid features across your
+  devices, reflect renewals and cancellations, and keep the records required for
+  tax and accounting. The payment itself, and any refund, is handled by the app
+  store.
 - **Communicate with you.** Respond to support requests, send you the OTP codes
   needed to sign in, and send administrative messages such as changes to our
   terms or policies.
@@ -241,11 +252,12 @@ described below:
   photo-storage host (**Supabase**), our AI provider for plant identification and
   care personalization (**Anthropic**), and our email delivery provider. These
   vendors are permitted to use the information only to provide services to us.
-- **Payment processor.** We share the information described under
-  [Payment Information](#payment-information) with **Stripe** so that it can take
-  your payment, manage your subscription, and prevent payment fraud. Stripe also
-  processes some of that information as an independent controller for its own
-  legal and fraud-prevention purposes.
+- **App store and subscription-management provider.** We share the information
+  described under [Payment Information](#payment-information) with **RevenueCat**
+  so that it can tell the app whether your subscription is active. Your payment
+  is taken by the **Apple App Store**, which processes your payment information
+  as an independent controller for its own legal and fraud-prevention purposes;
+  we do not send it to them, and we do not receive it from them.
 - **Sign-in providers.** If you choose Sign in with Google or Sign in with X, that
   provider necessarily learns that you signed in to GardenAI, and handles that
   interaction under its own privacy policy
@@ -289,8 +301,9 @@ device and shared only where you choose to send it.
 - **Marketing.** If you receive marketing emails from us, you can opt out using
   the unsubscribe link in the message or by contacting us.
 - **Subscription.** You can cancel your subscription at any time, which stops
-  future charges and further payment processing. If you bought through the App
-  Store or Google Play, cancel in that platform's subscription settings.
+  future charges. Because your subscription is bought through the app store,
+  cancel it in that platform's subscription settings — deleting the app does not
+  cancel it.
 - **Account deletion.** You can request deletion of your account and associated
   data as described in [Your Privacy Rights](#your-privacy-rights).
 
@@ -315,13 +328,12 @@ is no longer needed, we delete or de-identify it. If you delete your account, we
 will delete or de-identify your personal information within a reasonable period,
 except where retention is required or permitted by law.
 
-**Billing records are an exception.** Records of your payments — the amount,
-date, plan, and the identifiers tying a transaction to your account — are kept
-by us and by Stripe for as long as tax, accounting, and anti-fraud law requires
-(commonly up to seven years, and longer where a chargeback, dispute, or legal
-claim is outstanding), even after you delete your account. Stripe's own retention
-of payment data is governed by its
-[Privacy Policy](https://stripe.com/privacy).
+**Subscription records are an exception.** Records of your subscription — the
+plan, the dates, and the identifiers tying a purchase to your account — are kept
+for as long as tax, accounting, and anti-fraud law requires (commonly up to seven
+years, and longer where a chargeback, dispute, or legal claim is outstanding),
+even after you delete your account. Records of the payment itself are held by the
+app store, whose retention is governed by its own privacy policy.
 
 **Anonymous accounts.** If you use the app without ever adding an email address
 and then stop using it, the anonymous account and its garden data may be deleted
@@ -338,10 +350,12 @@ borders, we take steps to ensure it remains protected in accordance with
 applicable law. By using the Services, you understand that your personal
 information may be transferred to countries outside your country of residence.
 
-Our payment processor, Stripe, operates globally and transfers payment
-information to the United States; Stripe relies on the European Commission's
-Standard Contractual Clauses (with the UK Addendum where applicable) and its
-certification under the EU–U.S., UK, and Swiss–U.S. Data Privacy Frameworks.
+Our subscription-management provider, RevenueCat, is based in the United States,
+and the app store that takes your payment operates globally and transfers
+payment information internationally. Each relies on its own transfer safeguards,
+such as the European Commission's Standard Contractual Clauses (with the UK
+Addendum where applicable) and, where applicable, certification under the
+EU–U.S., UK, and Swiss–U.S. Data Privacy Frameworks.
 
 ---
 
@@ -412,9 +426,10 @@ collected the following categories of personal information:
 - **Visual information** (plant and growing-space photos you provide).
 - **Commercial information** (subscription and transaction records, plan,
   renewal dates, and amounts, if you purchase).
-- **Financial information** (limited payment-method metadata such as card brand,
-  last four digits, and billing country; we do **not** collect or store full card
-  numbers — Stripe does).
+- **Financial information** — we do **not** collect or store payment-method
+  information of any kind. No card number, no card brand, no last four digits,
+  no billing address. Your payment is taken by the app store and its details are
+  never passed to us.
 - **Inferences** (e.g., care preferences derived from your plant data).
 
 We do not collect **sensitive personal information** as that term is defined
@@ -441,15 +456,15 @@ For individuals in the EEA, Switzerland, and the UK:
 personal information described in this Policy. You can contact us at
 **yazanbadran253@gmail.com**, and we will provide a postal address for
 correspondence on request. We have not appointed an EU or UK
-representative; if that changes, this Policy will be updated. Stripe acts as an
-independent controller for the payment processing described above.
+representative; if that changes, this Policy will be updated. The app store acts
+as an independent controller for the payment processing described above.
 
 **Legal bases.** We rely on the following legal bases to process your personal
 information:
 
 - **Performance of a contract** — to create your account and provide the
   Services you request (including plant identification and care plans), and to
-  take payment for and administer a subscription you have purchased.
+  administer a subscription you have purchased through the app store.
 - **Consent** — for camera/photo access, push notifications, optional marketing,
   and any processing that requires consent. You may withdraw consent at any time.
 - **Legitimate interests** — to secure the Services, prevent abuse, understand
