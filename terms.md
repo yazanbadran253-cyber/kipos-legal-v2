@@ -23,7 +23,7 @@ and affect how disputes are resolved. Nothing in these Terms excludes rights you
 have under mandatory consumer law in your country — see
 [Consumers](#consumers) below.
 
-Our [Privacy Policy](PRIVACY.md) explains how we handle your personal
+Our [Privacy Policy](privacy.html) explains how we handle your personal
 information and forms part of these Terms.
 
 ---
