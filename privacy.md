@@ -12,7 +12,7 @@ information when you use our mobile application and related services (together,
 the "Services"), and explains the privacy rights and choices available to you.
 
 GardenAI is operated by Yazan Badran, an individual developer. You can reach us
-at any time at **yazanbadran253@gmail.com**, and we will provide a postal address
+at any time at **support@getgardenai.com**, and we will provide a postal address
 for correspondence on request.
 
 By using the Services, you agree to the practices described in this Policy. This
@@ -304,8 +304,9 @@ device and shared only where you choose to send it.
   future charges. Because your subscription is bought through the app store,
   cancel it in that platform's subscription settings — deleting the app does not
   cancel it.
-- **Account deletion.** You can request deletion of your account and associated
-  data as described in [Your Privacy Rights](#your-privacy-rights).
+- **Account deletion.** You can delete your account and associated data directly
+  in the app from the Account screen. You can also contact us to exercise the
+  deletion rights described in [Your Privacy Rights](#your-privacy-rights).
 
 ---
 
@@ -376,7 +377,7 @@ your personal information:
 - **Non-discrimination** — we will not discriminate against you for exercising
   your rights.
 
-**How to exercise your rights.** Email us at **yazanbadran253@gmail.com** with the
+**How to exercise your rights.** Email us at **support@getgardenai.com** with the
 request you would like to make. We may need to verify your identity before acting
 on your request. Where permitted, you may use an authorized agent, in which case
 we will verify the agent's authority.
@@ -402,7 +403,7 @@ provide them to you.
 
 You have the right to access the personal information we hold about you and to
 request correction of anything inaccurate. Contact us at
-**yazanbadran253@gmail.com** and we will respond within the time PIPEDA allows.
+**support@getgardenai.com** and we will respond within the time PIPEDA allows.
 If you are not satisfied with our response, you may complain to the
 [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/), or to
 your provincial privacy commissioner where one has jurisdiction.
@@ -445,7 +446,7 @@ are defined under California law.
 California residents have the rights to know/access, delete, correct, and opt out
 of any "sale"/"sharing" (not applicable here), and the right not to be
 discriminated against for exercising these rights. To exercise them, contact us at
-**yazanbadran253@gmail.com**. You may appeal a decision by replying with "APPEAL"
+**support@getgardenai.com**. You may appeal a decision by replying with "APPEAL"
 in the subject line.
 
 ### European Economic Area, Switzerland, and United Kingdom (GDPR / UK GDPR)
@@ -454,7 +455,7 @@ For individuals in the EEA, Switzerland, and the UK:
 
 **Controller.** GardenAI, operated by Yazan Badran, is the controller of the
 personal information described in this Policy. You can contact us at
-**yazanbadran253@gmail.com**, and we will provide a postal address for
+**support@getgardenai.com**, and we will provide a postal address for
 correspondence on request. We have not appointed an EU or UK
 representative; if that changes, this Policy will be updated. The app store acts
 as an independent controller for the payment processing described above.
@@ -509,4 +510,4 @@ If you have any questions or concerns about this Policy or our privacy practices
 please contact us at:
 
 **GardenAI**
-Email: **yazanbadran253@gmail.com**
+Email: **support@getgardenai.com**

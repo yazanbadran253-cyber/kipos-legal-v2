@@ -11,7 +11,7 @@ GardenAI ("GardenAI," "we," "our," or "us") governing your use of the GardenAI
 mobile application and related services (together, the "Services").
 
 GardenAI is operated by Yazan Badran, an individual developer. You can reach us
-at any time at **yazanbadran253@gmail.com**, and we will provide a postal address
+at any time at **support@getgardenai.com**, and we will provide a postal address
 for correspondence on request.
 
 **Please read these Terms carefully.** By downloading, accessing, or using the
@@ -60,7 +60,7 @@ account and any third-party accounts you use to sign in, and for all activity th
 occurs under your GardenAI account. If you sign in with Google or X and later
 revoke GardenAI's access from that provider, or lose access to that account, you
 may be unable to sign in — we recommend adding your email address as well. Tell us
-promptly at **yazanbadran253@gmail.com** if you believe your account has been
+promptly at **support@getgardenai.com** if you believe your account has been
 compromised.
 
 **One account per person.** Please do not create multiple accounts to circumvent
@@ -340,7 +340,7 @@ Protection Act, 2002*, and consumers in Quebec keep their rights under the
 their own district.
 
 Before starting formal proceedings, please contact us at
-**yazanbadran253@gmail.com** — most issues can be resolved informally, and we will
+**support@getgardenai.com** — most issues can be resolved informally, and we will
 try to do so within 30 days.
 
 ---
@@ -378,4 +378,4 @@ Services and delete your account.
 Questions about these Terms:
 
 **GardenAI**
-Email: **yazanbadran253@gmail.com**
+Email: **support@getgardenai.com**
