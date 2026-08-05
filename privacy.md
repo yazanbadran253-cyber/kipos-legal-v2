@@ -4,7 +4,7 @@ title: GardenAI Privacy Policy
 
 # GardenAI Privacy Policy
 
-**Effective Date: July 31, 2026**
+**Effective Date: August 5, 2026**
 
 This Privacy Policy (the "Policy") describes how GardenAI ("GardenAI," "we,"
 "our," or "us") collects, uses, discloses, and otherwise processes your personal
@@ -44,7 +44,7 @@ the Services.
 - **Account information.** When you save your progress, we collect your **email
   address**. GardenAI uses passwordless sign-in: you receive a one-time code
   (OTP) by email to verify your account. We do not collect or store a password.
-  You may instead sign in with Google or X, in which case we receive your email
+  You may instead sign in with Google or Apple, in which case we receive your email
   address and basic profile details from that provider — see
   [Information From Third Parties](#information-from-third-parties) below.
 - **Profile information.** A display name if you choose to set one.
@@ -53,19 +53,18 @@ the Services.
   randomly generated account identifier with no email attached — so that your
   garden can be saved and kept private to you. If you later save your progress,
   that same account is upgraded in place — with your email address, or with your
-  Google or X identity if you sign in that way — and the data you already entered
+  Google or Apple identity if you sign in that way — and the data you already entered
   is preserved.
 - **Plant and garden data.** Information you enter about your plants and your care
   activity, including plant names, plant types/species, locations (for example,
   "kitchen windowsill"), notes you write, care schedules, and the care actions you
   log (such as watering, feeding, and light).
-- **Plant and space photos.** If you choose to add a photo to a plant, scan a
-  plant with your camera, or photograph the space you want to grow in so we can
-  estimate its growing potential, we collect the image you capture or upload.
-  Photographs of a growing space may show parts of your home, balcony, or yard —
-  please frame them so they show only what you are comfortable sharing. Camera
-  and photo-library access are used only for these features and only after you
-  grant the relevant device permission.
+- **Plant photos.** If you choose to add a photo to a plant, or scan a plant with
+  your camera, we collect the image you capture or upload. A plant photo may show
+  parts of your home, balcony, or yard in the background — please frame it so it
+  shows only what you are comfortable sharing. Camera and photo-library access
+  are used only for these features and only after you grant the relevant device
+  permission.
 - **Communications.** If you contact us for support or feedback, we collect your
   email address and the contents of your message.
 - **Marketing preferences.** If applicable, whether you have opted in to receive
@@ -95,13 +94,16 @@ requires it, ask for your consent.
 ### Information From Third Parties
 
 - **Sign-in providers.** As well as email sign-in, GardenAI offers **Sign in with
-  Google** and **Sign in with X**. These are optional — you can always use email
-  instead. If you choose one, we receive a limited set of account information
-  from that provider so we can create or recover your GardenAI account:
+  Google** and **Sign in with Apple**. These are optional — you can always use
+  email instead. If you choose one, we receive a limited set of account
+  information from that provider so we can create or recover your GardenAI
+  account:
   - **Google:** your Google account identifier, email address, name, and profile
     picture, under the standard `openid`, `email`, and `profile` scopes.
-  - **X:** your X account identifier, username, display name, profile picture,
-    and the email address registered to your X account.
+  - **Apple:** your Apple account identifier and email address, and your name if
+    you choose to share it. Apple lets you **hide your email address**, in which
+    case we receive a private relay address rather than your real one and never
+    learn the latter. Everything in GardenAI works the same either way.
 
   We use this information only to identify you, create or sign you in to your
   account, and contact you about your account. We do **not** post, read posts,
@@ -109,7 +111,7 @@ requires it, ask for your consent.
   contacts, followers, timeline, or any other content held by these providers;
   and we do not receive your password. What each provider shares is also subject
   to your settings with them, and you can revoke GardenAI's access at any time
-  from your Google or X account security settings. If you do, you may need
+  from your Google or Apple account security settings. If you do, you may need
   another sign-in method to get back into your GardenAI account.
 - **App store and subscription-management provider.** The app store you bought
   your subscription through, and our subscription-management provider
@@ -221,11 +223,9 @@ experience:
 - **Care personalization.** Details you provide about your plants and answers to
   onboarding questions may be sent to the same AI provider to generate a
   personalized care plan and follow-up questions.
-- **Growing-space estimates and garden scoring.** If you photograph a space to
-  estimate what it could grow, that photo is sent through our server to the same
-  AI provider to produce the estimate. Information about the plants in your
-  garden may likewise be processed to generate your garden-balance score and
-  suggestions.
+- **Garden scoring.** Information about the plants in your garden may be sent to
+  the same AI provider to generate your garden-balance score and its suggestions
+  for what to add.
 
 Photos and prompts sent for these features are processed to return your result;
 we do not use your photos or garden data to train AI models, and our AI provider
@@ -258,12 +258,13 @@ described below:
   is taken by the **Apple App Store**, which processes your payment information
   as an independent controller for its own legal and fraud-prevention purposes;
   we do not send it to them, and we do not receive it from them.
-- **Sign-in providers.** If you choose Sign in with Google or Sign in with X, that
-  provider necessarily learns that you signed in to GardenAI, and handles that
-  interaction under its own privacy policy
+- **Sign-in providers.** If you choose Sign in with Google or Sign in with Apple,
+  that provider necessarily learns that you signed in to GardenAI, and handles
+  that interaction under its own privacy policy
   ([Google](https://policies.google.com/privacy),
-  [X](https://x.com/en/privacy)). We do not send them your garden data, plant
-  photos, or care history, and we do not disclose your GardenAI activity to them.
+  [Apple](https://www.apple.com/legal/privacy/)). We do not send them your garden
+  data, plant photos, or care history, and we do not disclose your GardenAI
+  activity to them.
 - **Platform providers.** Apple and Google, in connection with app-store
   purchases, if you buy a subscription through the App Store or Google Play.
 - **Legal and safety.** We may disclose information to comply with applicable law
@@ -424,7 +425,7 @@ collected the following categories of personal information:
   interaction data).
 - **Geolocation data** (approximate location inferred from IP address only; we do
   not collect precise GPS location).
-- **Visual information** (plant and growing-space photos you provide).
+- **Visual information** (plant photos you provide).
 - **Commercial information** (subscription and transaction records, plan,
   renewal dates, and amounts, if you purchase).
 - **Financial information** — we do **not** collect or store payment-method

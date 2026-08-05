@@ -4,7 +4,7 @@ title: GardenAI Terms of Service
 
 # GardenAI Terms of Service
 
-**Effective Date: July 31, 2026**
+**Effective Date: August 5, 2026**
 
 These Terms of Service (the "Terms") are a binding agreement between you and
 GardenAI ("GardenAI," "we," "our," or "us") governing your use of the GardenAI
@@ -51,13 +51,13 @@ its data before adding a sign-in method, that garden is gone. Anonymous accounts
 may also be deleted during routine cleanup, as described in our Privacy Policy.
 
 **Signing in.** You can convert an anonymous account into a permanent one using a
-one-time code sent to your email address, or by signing in with Google or X.
+one-time code sent to your email address, or by signing in with Google or Apple.
 Whichever you choose, your existing garden data is preserved and stays attached to
 the same account.
 
 **Keeping your account secure.** You are responsible for the security of the email
 account and any third-party accounts you use to sign in, and for all activity that
-occurs under your GardenAI account. If you sign in with Google or X and later
+occurs under your GardenAI account. If you sign in with Google or Apple and later
 revoke GardenAI's access from that provider, or lose access to that account, you
 may be unable to sign in — we recommend adding your email address as well. Tell us
 promptly at **support@getgardenai.com** if you believe your account has been
@@ -77,9 +77,9 @@ data cannot be recovered afterwards.
 This section is important. Please read it in full.
 
 GardenAI uses artificial intelligence to identify plants from photographs, to
-generate care plans and reminders, and to estimate what a growing space could
-support. These features are provided **for general informational and horticultural
-purposes only**.
+generate care plans and reminders, and to score how well the plants in your
+garden suit one another. These features are provided **for general informational
+and horticultural purposes only**.
 
 **Identifications and guidance can be wrong.** Plant identification from a
 photograph is inherently uncertain. Many plants closely resemble one another, and
@@ -121,8 +121,9 @@ protected, invasive, controlled, or quarantined species.
 
 ## Subscriptions, Free Trials, and Payment
 
-GardenAI is free to use in part, and offers an optional paid subscription that
-unlocks additional features.
+**GardenAI is a paid subscription app.** After you set up your first plant and
+see your care plan, continuing to use the Services requires an active
+subscription or a running free trial. There is no permanently free tier.
 
 **Free trial.** We may offer a free trial. Unless you cancel before the trial
 ends, the subscription begins automatically and the first charge is taken at the
@@ -232,11 +233,12 @@ obligation or compensation to you.
 The Services rely on third parties, including our hosting and authentication
 provider, our AI provider, the app store that sells and processes your
 subscription, our subscription-management provider, and the sign-in providers
-you choose to use. Your use of Google or X to sign in is also governed by that
-provider's own terms and privacy policy. We are not responsible for third-party
-services, and their availability is outside our control.
+you choose to use. Your use of Google or Apple to sign in is also governed by
+that provider's own terms and privacy policy. We are not responsible for
+third-party services, and their availability is outside our control.
 
-The Services are not affiliated with, endorsed by, or sponsored by Google or X.
+The Services are not affiliated with, endorsed by, or sponsored by Google or
+Apple.
 
 ---
 
