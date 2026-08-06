@@ -1,16 +1,16 @@
 ---
-title: GardenAI Terms of Service
+title: Kipos Terms of Service
 ---
 
-# GardenAI Terms of Service
+# Kipos Terms of Service
 
 **Effective Date: August 5, 2026**
 
 These Terms of Service (the "Terms") are a binding agreement between you and
-GardenAI ("GardenAI," "we," "our," or "us") governing your use of the GardenAI
+Kipos ("Kipos," "we," "our," or "us") governing your use of the Kipos
 mobile application and related services (together, the "Services").
 
-GardenAI is operated by Yazan Badran, an individual developer. You can reach us
+Kipos is operated by Yazan Badran, an individual developer. You can reach us
 at any time at **support@getgardenai.com**, and we will provide a postal address
 for correspondence on request.
 
@@ -44,7 +44,7 @@ or if we have previously terminated your account.
 
 ## Your Account
 
-**Anonymous use.** When you first open GardenAI we create an anonymous account for
+**Anonymous use.** When you first open Kipos we create an anonymous account for
 you automatically, so your garden can be saved before you sign in. Anonymous
 accounts are not recoverable: if you lose your device, uninstall the app, or clear
 its data before adding a sign-in method, that garden is gone. Anonymous accounts
@@ -57,8 +57,8 @@ the same account.
 
 **Keeping your account secure.** You are responsible for the security of the email
 account and any third-party accounts you use to sign in, and for all activity that
-occurs under your GardenAI account. If you sign in with Google or Apple and later
-revoke GardenAI's access from that provider, or lose access to that account, you
+occurs under your Kipos account. If you sign in with Google or Apple and later
+revoke Kipos's access from that provider, or lose access to that account, you
 may be unable to sign in — we recommend adding your email address as well. Tell us
 promptly at **support@getgardenai.com** if you believe your account has been
 compromised.
@@ -76,19 +76,19 @@ data cannot be recovered afterwards.
 
 This section is important. Please read it in full.
 
-GardenAI uses artificial intelligence to identify plants from photographs, to
+Kipos uses artificial intelligence to identify plants from photographs, to
 generate care plans and reminders, and to score how well the plants in your
 garden suit one another. These features are provided **for general informational
 and horticultural purposes only**.
 
 **Identifications and guidance can be wrong.** Plant identification from a
 photograph is inherently uncertain. Many plants closely resemble one another, and
-some safe plants have dangerous look-alikes. GardenAI may misidentify a plant,
+some safe plants have dangerous look-alikes. Kipos may misidentify a plant,
 express confidence in an incorrect result, or generate care information that is
 inaccurate, incomplete, or unsuitable for your specific plant, climate, or
 conditions.
 
-**Do not rely on GardenAI for any decision affecting health or safety.** In
+**Do not rely on Kipos for any decision affecting health or safety.** In
 particular, you must not rely on the Services to decide whether any plant, fungus,
 seed, berry, leaf, or other material is:
 
@@ -97,7 +97,7 @@ seed, berry, leaf, or other material is:
 - safe to keep around children, pets, or livestock; or
 - suitable for any medicinal, therapeutic, or herbal purpose.
 
-**Never eat, ingest, or medicinally use a plant based on a GardenAI
+**Never eat, ingest, or medicinally use a plant based on a Kipos
 identification.** Consult a qualified expert — a botanist, mycologist,
 horticulturist, physician, veterinarian, or poison-control centre — before acting
 on any information the Services provide. If you suspect poisoning, contact your
@@ -121,7 +121,7 @@ protected, invasive, controlled, or quarantined species.
 
 ## Subscriptions, Free Trials, and Payment
 
-**GardenAI is a paid subscription app.** After you set up your first plant and
+**Kipos is a paid subscription app.** After you set up your first plant and
 see your care plan, continuing to use the Services requires an active
 subscription or a running free trial. There is no permanently free tier.
 
@@ -164,7 +164,7 @@ other statutory rights are unaffected.
 ## Your Content
 
 **You own your content.** Plant names, notes, photographs, and other material you
-add to GardenAI ("Your Content") remain yours. We do not claim ownership of it.
+add to Kipos ("Your Content") remain yours. We do not claim ownership of it.
 
 **Licence to us.** You grant us a worldwide, non-exclusive, royalty-free licence
 to host, store, reproduce, transmit, adapt, and display Your Content solely to
@@ -220,7 +220,7 @@ underlying software — are owned by us or our licensors and are protected by
 intellectual property law. We grant you a personal, limited, non-exclusive,
 non-transferable, revocable licence to use the Services for your own
 non-commercial purposes, subject to these Terms. All rights not expressly granted
-are reserved. GardenAI's name and logo may not be used without our written
+are reserved. Kipos's name and logo may not be used without our written
 permission.
 
 **Feedback.** If you send us suggestions or feedback, we may use them without
@@ -310,7 +310,7 @@ not apply to you.
 
 ## Indemnification
 
-To the extent permitted by law, you agree to indemnify and hold harmless GardenAI
+To the extent permitted by law, you agree to indemnify and hold harmless Kipos
 and its operator from any claims, damages, liabilities, and reasonable legal costs
 arising from your misuse of the Services, your breach of these Terms, or Your
 Content. This does not apply to consumers to the extent prohibited by applicable
@@ -379,5 +379,5 @@ Services and delete your account.
 
 Questions about these Terms:
 
-**GardenAI**
+**Kipos**
 Email: **support@getgardenai.com**

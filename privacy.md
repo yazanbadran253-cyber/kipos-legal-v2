@@ -1,17 +1,17 @@
 ---
-title: GardenAI Privacy Policy
+title: Kipos Privacy Policy
 ---
 
-# GardenAI Privacy Policy
+# Kipos Privacy Policy
 
 **Effective Date: August 5, 2026**
 
-This Privacy Policy (the "Policy") describes how GardenAI ("GardenAI," "we,"
+This Privacy Policy (the "Policy") describes how Kipos ("Kipos," "we,"
 "our," or "us") collects, uses, discloses, and otherwise processes your personal
 information when you use our mobile application and related services (together,
 the "Services"), and explains the privacy rights and choices available to you.
 
-GardenAI is operated by Yazan Badran, an individual developer. You can reach us
+Kipos is operated by Yazan Badran, an individual developer. You can reach us
 at any time at **support@getgardenai.com**, and we will provide a postal address
 for correspondence on request.
 
@@ -42,13 +42,13 @@ the Services.
 ### Information You Provide Directly
 
 - **Account information.** When you save your progress, we collect your **email
-  address**. GardenAI uses passwordless sign-in: you receive a one-time code
+  address**. Kipos uses passwordless sign-in: you receive a one-time code
   (OTP) by email to verify your account. We do not collect or store a password.
   You may instead sign in with Google or Apple, in which case we receive your email
   address and basic profile details from that provider — see
   [Information From Third Parties](#information-from-third-parties) below.
 - **Profile information.** A display name if you choose to set one.
-- **Anonymous accounts.** You can use GardenAI before you give us an email
+- **Anonymous accounts.** You can use Kipos before you give us an email
   address. When you first open the app we create an **anonymous account** — a
   randomly generated account identifier with no email attached — so that your
   garden can be saved and kept private to you. If you later save your progress,
@@ -84,7 +84,7 @@ the Services.
   diagnostic information (such as error logs and performance data) to help us fix
   problems and improve stability.
 
-**No third-party analytics or advertising.** GardenAI is a **native mobile app**
+**No third-party analytics or advertising.** Kipos is a **native mobile app**
 and does not use website cookies. As of the Effective Date above, the app
 contains **no third-party analytics, attribution, or advertising SDKs**, and we
 do not track you across other apps or websites. If we ever add an analytics or
@@ -93,26 +93,26 @@ requires it, ask for your consent.
 
 ### Information From Third Parties
 
-- **Sign-in providers.** As well as email sign-in, GardenAI offers **Sign in with
+- **Sign-in providers.** As well as email sign-in, Kipos offers **Sign in with
   Google** and **Sign in with Apple**. These are optional — you can always use
   email instead. If you choose one, we receive a limited set of account
-  information from that provider so we can create or recover your GardenAI
+  information from that provider so we can create or recover your Kipos
   account:
   - **Google:** your Google account identifier, email address, name, and profile
     picture, under the standard `openid`, `email`, and `profile` scopes.
   - **Apple:** your Apple account identifier and email address, and your name if
     you choose to share it. Apple lets you **hide your email address**, in which
     case we receive a private relay address rather than your real one and never
-    learn the latter. Everything in GardenAI works the same either way.
+    learn the latter. Everything in Kipos works the same either way.
 
   We use this information only to identify you, create or sign you in to your
   account, and contact you about your account. We do **not** post, read posts,
   like, repost, follow, or send messages on your behalf; we do not read your
   contacts, followers, timeline, or any other content held by these providers;
   and we do not receive your password. What each provider shares is also subject
-  to your settings with them, and you can revoke GardenAI's access at any time
+  to your settings with them, and you can revoke Kipos's access at any time
   from your Google or Apple account security settings. If you do, you may need
-  another sign-in method to get back into your GardenAI account.
+  another sign-in method to get back into your Kipos account.
 - **App store and subscription-management provider.** The app store you bought
   your subscription through, and our subscription-management provider
   RevenueCat, tell us whether your subscription is active. They do not give us
@@ -123,7 +123,7 @@ requires it, ask for your consent.
 
 ### Payment Information
 
-GardenAI offers a paid subscription with an optional free trial. **Subscriptions
+Kipos offers a paid subscription with an optional free trial. **Subscriptions
 are sold and processed by the app store you bought them through — the Apple App
 Store — under that platform's own terms.** We do not operate a payment interface,
 and we do not use an independent payment processor.
@@ -138,13 +138,13 @@ and we do not use an independent payment processor.
   subscription is active: an anonymous subscriber identifier, your plan (monthly
   or annual), your subscription and trial status, renewal, expiry and
   cancellation dates, and whether a billing problem has been reported by the
-  store. This is linked to your GardenAI account identifier so that the features
+  store. This is linked to your Kipos account identifier so that the features
   you paid for are unlocked on your devices.
 - **Subscription-management provider.** We use
   [RevenueCat](https://www.revenuecat.com/privacy) to receive and interpret the
   purchase and renewal information the app store sends, and to tell the app
   whether your subscription is active. RevenueCat processes this information as
-  a service provider acting on our instructions. It receives your GardenAI
+  a service provider acting on our instructions. It receives your Kipos
   account identifier, the store's transaction and subscription data, and basic
   device and app information such as platform, app version, and country. It does
   not receive your payment details either.
@@ -164,7 +164,7 @@ of your information is governed by the
 [Apple Privacy Policy](https://www.apple.com/legal/privacy/), which we encourage
 you to read.
 
-**If we add another store or payment method.** Should GardenAI later be sold
+**If we add another store or payment method.** Should Kipos later be sold
 through Google Play or take payment by another route, this Policy will be
 updated before that happens and the relevant provider named here.
 
@@ -213,7 +213,7 @@ We use your personal information to:
 
 ## AI and Automated Processing
 
-Some features of GardenAI use artificial intelligence to give you a better
+Some features of Kipos use artificial intelligence to give you a better
 experience:
 
 - **Plant identification.** When you scan a plant, the photo is sent to our
@@ -259,17 +259,17 @@ described below:
   as an independent controller for its own legal and fraud-prevention purposes;
   we do not send it to them, and we do not receive it from them.
 - **Sign-in providers.** If you choose Sign in with Google or Sign in with Apple,
-  that provider necessarily learns that you signed in to GardenAI, and handles
+  that provider necessarily learns that you signed in to Kipos, and handles
   that interaction under its own privacy policy
   ([Google](https://policies.google.com/privacy),
   [Apple](https://www.apple.com/legal/privacy/)). We do not send them your garden
-  data, plant photos, or care history, and we do not disclose your GardenAI
+  data, plant photos, or care history, and we do not disclose your Kipos
   activity to them.
 - **Platform providers.** Apple and Google, in connection with app-store
   purchases, if you buy a subscription through the App Store or Google Play.
 - **Legal and safety.** We may disclose information to comply with applicable law
   or a lawful request, to enforce our Terms, or to protect the rights, property,
-  or safety of GardenAI, our users, or others.
+  or safety of Kipos, our users, or others.
 - **Business transfers.** We may disclose information in connection with a merger,
   acquisition, financing, reorganization, bankruptcy, or sale of assets, in which
   case your information may be among the transferred assets.
@@ -389,7 +389,7 @@ we will verify the agent's authority.
 
 ### Canada (PIPEDA and provincial privacy law)
 
-GardenAI is operated from Ontario, Canada, and we handle personal information in
+Kipos is operated from Ontario, Canada, and we handle personal information in
 accordance with the *Personal Information Protection and Electronic Documents Act*
 (PIPEDA) and applicable provincial privacy legislation.
 
@@ -454,7 +454,7 @@ in the subject line.
 
 For individuals in the EEA, Switzerland, and the UK:
 
-**Controller.** GardenAI, operated by Yazan Badran, is the controller of the
+**Controller.** Kipos, operated by Yazan Badran, is the controller of the
 personal information described in this Policy. You can contact us at
 **support@getgardenai.com**, and we will provide a postal address for
 correspondence on request. We have not appointed an EU or UK
@@ -510,5 +510,5 @@ update means you accept the revised Policy.
 If you have any questions or concerns about this Policy or our privacy practices,
 please contact us at:
 
-**GardenAI**
+**Kipos**
 Email: **support@getgardenai.com**

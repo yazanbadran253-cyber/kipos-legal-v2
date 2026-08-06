@@ -1,10 +1,10 @@
 ---
-title: GardenAI
+title: Kipos
 ---
 
-# GardenAI
+# Kipos
 
-Legal documents for the GardenAI plant-care app.
+Legal documents for the Kipos plant-care app.
 
 - [Privacy Policy](privacy.html)
 - [Terms of Service](terms.html)
