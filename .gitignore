@@ -1,0 +1,7 @@
+# This repo is PUBLIC — it is the GitHub Pages site behind LEGAL_URLS in the app.
+# Anything committed here is world-readable at github.io/kipos-legal-v2/.
+
+# Proof-of-address documents for the Apple/DSA trader record. The published
+# address itself belongs in privacy.md and terms.md; the evidence PDF does not.
+address-evidence-*.pdf
+*.pdf

@@ -4,15 +4,18 @@ title: Kipos Terms of Service
 
 # Kipos Terms of Service
 
-**Effective Date: August 5, 2026**
+**Effective Date: August 10, 2026**
 
 These Terms of Service (the "Terms") are a binding agreement between you and
 Kipos ("Kipos," "we," "our," or "us") governing your use of the Kipos
 mobile application and related services (together, the "Services").
 
-Kipos is operated by Yazan Badran, an individual developer. You can reach us
-at any time at **support@getgardenai.com**, and we will provide a postal address
-for correspondence on request.
+Kipos is operated by Yazan Badran, an individual developer. You can reach us at
+any time:
+
+- **Email:** support@getgardenai.com
+- **Post:** 2967 Dundas St. W. #295D, Toronto, ON M6P 1Z2, Canada
+- **Phone:** +1 437 212 8843
 
 **Please read these Terms carefully.** By downloading, accessing, or using the
 Services, you agree to them. If you do not agree, do not use the Services.
@@ -47,21 +50,27 @@ or if we have previously terminated your account.
 **Anonymous use.** When you first open Kipos we create an anonymous account for
 you automatically, so your garden can be saved before you sign in. Anonymous
 accounts are not recoverable: if you lose your device, uninstall the app, or clear
-its data before adding a sign-in method, that garden is gone. Anonymous accounts
-may also be deleted during routine cleanup, as described in our Privacy Policy.
+its data before adding a sign-in method, that garden is gone.
 
-**Signing in.** You can convert an anonymous account into a permanent one using a
-one-time code sent to your email address, or by signing in with Google or Apple.
+**Signing in.** You can convert an anonymous account into a permanent one by
+setting an email address and a password — we send a one-time code to that address
+to confirm it — or by signing in with Google or Apple.
 Whichever you choose, your existing garden data is preserved and stays attached to
-the same account.
+the same account. The one exception is signing in with an email address, Google
+account or Apple account that **already** belongs to a Kipos account: we sign you
+in to that existing account, and anything added anonymously on this device before
+you signed in stays with the anonymous account rather than moving across.
 
-**Keeping your account secure.** You are responsible for the security of the email
-account and any third-party accounts you use to sign in, and for all activity that
-occurs under your Kipos account. If you sign in with Google or Apple and later
-revoke Kipos's access from that provider, or lose access to that account, you
-may be unable to sign in — we recommend adding your email address as well. Tell us
-promptly at **support@getgardenai.com** if you believe your account has been
-compromised.
+**Keeping your account secure.** You are responsible for keeping your password
+confidential, for the security of the email account and any third-party accounts
+you use to sign in, and for all activity that occurs under your Kipos account.
+Choose a password you do not use anywhere else, and do not share it. If you forget
+it, you can set a new one using a code we email to your address — so access to that
+email account is what ultimately protects your Kipos account. If you sign in with
+Google or Apple and later revoke Kipos's access from that provider, or lose access
+to that account, you may be unable to sign in — we recommend adding your email
+address as well. Tell us promptly at **support@getgardenai.com** if you believe
+your account has been compromised.
 
 **One account per person.** Please do not create multiple accounts to circumvent
 usage limits, free-trial eligibility, or a suspension.
@@ -381,3 +390,5 @@ Questions about these Terms:
 
 **Kipos**
 Email: **support@getgardenai.com**
+Post: **2967 Dundas St. W. #295D, Toronto, ON M6P 1Z2, Canada**
+Phone: **+1 437 212 8843**

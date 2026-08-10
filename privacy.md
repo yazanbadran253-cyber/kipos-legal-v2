@@ -4,16 +4,19 @@ title: Kipos Privacy Policy
 
 # Kipos Privacy Policy
 
-**Effective Date: August 5, 2026**
+**Effective Date: August 10, 2026**
 
 This Privacy Policy (the "Policy") describes how Kipos ("Kipos," "we,"
 "our," or "us") collects, uses, discloses, and otherwise processes your personal
 information when you use our mobile application and related services (together,
 the "Services"), and explains the privacy rights and choices available to you.
 
-Kipos is operated by Yazan Badran, an individual developer. You can reach us
-at any time at **support@getgardenai.com**, and we will provide a postal address
-for correspondence on request.
+Kipos is operated by Yazan Badran, an individual developer. You can reach us at
+any time:
+
+- **Email:** support@getgardenai.com
+- **Post:** 2967 Dundas St. W. #295D, Toronto, ON M6P 1Z2, Canada
+- **Phone:** +1 437 212 8843
 
 By using the Services, you agree to the practices described in this Policy. This
 Policy forms part of, and should be read together with, our Terms of Service.
@@ -42,8 +45,11 @@ the Services.
 ### Information You Provide Directly
 
 - **Account information.** When you save your progress, we collect your **email
-  address**. Kipos uses passwordless sign-in: you receive a one-time code
-  (OTP) by email to verify your account. We do not collect or store a password.
+  address** and a **password** that you choose. We confirm your email address by
+  sending you a one-time code. Your password is never stored in a readable form:
+  our authentication provider, Supabase, keeps only a salted cryptographic hash
+  of it, so neither we nor they can see or recover the password itself. If you
+  forget it, we email you a one-time code so you can set a new one.
   You may instead sign in with Google or Apple, in which case we receive your email
   address and basic profile details from that provider — see
   [Information From Third Parties](#information-from-third-parties) below.
@@ -59,6 +65,12 @@ the Services.
   activity, including plant names, plant types/species, locations (for example,
   "kitchen windowsill"), notes you write, care schedules, and the care actions you
   log (such as watering, feeding, and light).
+- **Onboarding answers.** When you first set up Kipos we ask a short series of
+  questions and keep your answers: how you heard about Kipos, the growing space
+  available to you, your main gardening goal and the difficulty you most want
+  help with, the climate or frost band you tell us you garden in, whether you
+  used a gardening app before, and how much time a day you want to spend. We use
+  these to tailor your care plan and the plants we suggest.
 - **Plant photos.** If you choose to add a photo to a plant, or scan a plant with
   your camera, we collect the image you capture or upload. A plant photo may show
   parts of your home, balcony, or yard in the background — please frame it so it
@@ -67,8 +79,6 @@ the Services.
   permission.
 - **Communications.** If you contact us for support or feedback, we collect your
   email address and the contents of your message.
-- **Marketing preferences.** If applicable, whether you have opted in to receive
-  product updates or marketing communications from us.
 
 ### Information We Collect Automatically
 
@@ -76,13 +86,12 @@ the Services.
   records standard technical information such as your IP address, the date and
   time of the request, the app version, and the request that was made. IP
   addresses reveal a general, city-level location; we do **not** collect precise
-  GPS location, and the app never asks for location permission.
+  GPS location, and the app never asks for location permission. If something
+  goes wrong while our backend is handling a request, the error is recorded in
+  those same logs, and that record can include your account identifier.
 - **Service usage counters.** We count how many plant scans each account makes
   per day, so that we can enforce a fair-use limit on a feature that costs us
   money to run.
-- **Diagnostic and crash data.** If the app encounters an error, we may collect
-  diagnostic information (such as error logs and performance data) to help us fix
-  problems and improve stability.
 
 **No third-party analytics or advertising.** Kipos is a **native mobile app**
 and does not use website cookies. As of the Effective Date above, the app
@@ -109,7 +118,7 @@ requires it, ask for your consent.
   account, and contact you about your account. We do **not** post, read posts,
   like, repost, follow, or send messages on your behalf; we do not read your
   contacts, followers, timeline, or any other content held by these providers;
-  and we do not receive your password. What each provider shares is also subject
+  and we do not receive your Google or Apple password. What each provider shares is also subject
   to your settings with them, and you can revoke Kipos's access at any time
   from your Google or Apple account security settings. If you do, you may need
   another sign-in method to get back into your Kipos account.
@@ -195,11 +204,9 @@ We use your personal information to:
   devices, reflect renewals and cancellations, and keep the records required for
   tax and accounting. The payment itself, and any refund, is handled by the app
   store.
-- **Communicate with you.** Respond to support requests, send you the OTP codes
-  needed to sign in, and send administrative messages such as changes to our
-  terms or policies.
-- **Send marketing (where you have opted in or where permitted by law).** Tell you
-  about new features and offers. You can opt out at any time.
+- **Communicate with you.** Respond to support requests, send you the one-time
+  codes needed to confirm your email address or reset your password, and send
+  administrative messages such as changes to our terms or policies.
 - **Analyze and improve the Services.** Understand how the app is used, diagnose
   problems, fix crashes, and develop new and improved features.
 - **Maintain security and prevent abuse.** Protect the Services and our users,
@@ -250,8 +257,9 @@ described below:
 - **Service providers.** We share information with vendors who process it on our
   behalf to run the Services, including our backend, database, authentication and
   photo-storage host (**Supabase**), our AI provider for plant identification and
-  care personalization (**Anthropic**), and our email delivery provider. These
-  vendors are permitted to use the information only to provide services to us.
+  care personalization (**Anthropic**), and our email delivery provider
+  (**Resend**), which sends the one-time codes described above. These vendors are
+  permitted to use the information only to provide services to us.
 - **App store and subscription-management provider.** We share the information
   described under [Payment Information](#payment-information) with **RevenueCat**
   so that it can tell the app whether your subscription is active. Your payment
@@ -287,6 +295,10 @@ generated per plant and are not published, but this is not an access-controlled
 read. Please avoid including sensitive or personally identifying content in plant
 photos.
 
+Deleting a single plant removes it from your garden, but does not immediately
+remove its photo from storage — the existing link to that image may keep working.
+Deleting your account removes all of your photos.
+
 If you use the in-app share feature, the image you create is generated on your
 device and shared only where you choose to send it.
 
@@ -299,8 +311,6 @@ device and shared only where you choose to send it.
   (scanning and adding plant photos) will not work without them.
 - **Notifications.** You can turn plant-care reminders on or off in the app and
   manage notification permissions in your device settings.
-- **Marketing.** If you receive marketing emails from us, you can opt out using
-  the unsubscribe link in the message or by contacting us.
 - **Subscription.** You can cancel your subscription at any time, which stops
   future charges. Because your subscription is bought through the app store,
   cancel it in that platform's subscription settings — deleting the app does not
@@ -337,9 +347,10 @@ years, and longer where a chargeback, dispute, or legal claim is outstanding),
 even after you delete your account. Records of the payment itself are held by the
 app store, whose retention is governed by its own privacy policy.
 
-**Anonymous accounts.** If you use the app without ever adding an email address
-and then stop using it, the anonymous account and its garden data may be deleted
-during routine cleanup. Add your email if you want your garden kept.
+**Anonymous accounts.** An account with no email address attached cannot be
+recovered by us or by you — there is nothing to identify it with. If you lose
+your device, uninstall the app, or clear its data, that garden is gone. Add your
+email if you want your garden kept.
 
 ---
 
@@ -423,8 +434,9 @@ collected the following categories of personal information:
 - **Identifiers** (e.g., email address, device identifiers, IP address).
 - **Internet or other electronic network activity** (e.g., app usage and
   interaction data).
-- **Geolocation data** (approximate location inferred from IP address only; we do
-  not collect precise GPS location).
+- **Geolocation data** (approximate location only: a general, city-level area
+  inferred from your IP address, and the climate or frost band you tell us you
+  garden in. We do not collect precise GPS location).
 - **Visual information** (plant photos you provide).
 - **Commercial information** (subscription and transaction records, plan,
   renewal dates, and amounts, if you purchase).
@@ -456,9 +468,9 @@ For individuals in the EEA, Switzerland, and the UK:
 
 **Controller.** Kipos, operated by Yazan Badran, is the controller of the
 personal information described in this Policy. You can contact us at
-**support@getgardenai.com**, and we will provide a postal address for
-correspondence on request. We have not appointed an EU or UK
-representative; if that changes, this Policy will be updated. The app store acts
+**support@getgardenai.com**, by post at **2967 Dundas St. W. #295D, Toronto, ON
+M6P 1Z2, Canada**, or by phone at **+1 437 212 8843**. We have not appointed an
+EU or UK representative; if that changes, this Policy will be updated. The app store acts
 as an independent controller for the payment processing described above.
 
 **Legal bases.** We rely on the following legal bases to process your personal
@@ -467,8 +479,8 @@ information:
 - **Performance of a contract** — to create your account and provide the
   Services you request (including plant identification and care plans), and to
   administer a subscription you have purchased through the app store.
-- **Consent** — for camera/photo access, push notifications, optional marketing,
-  and any processing that requires consent. You may withdraw consent at any time.
+- **Consent** — for camera/photo access, notifications, and any processing that
+  requires consent. You may withdraw consent at any time.
 - **Legitimate interests** — to secure the Services, prevent abuse, understand
   usage, and improve our features, where those interests are not overridden by
   your rights.
@@ -512,3 +524,5 @@ please contact us at:
 
 **Kipos**
 Email: **support@getgardenai.com**
+Post: **2967 Dundas St. W. #295D, Toronto, ON M6P 1Z2, Canada**
+Phone: **+1 437 212 8843**
