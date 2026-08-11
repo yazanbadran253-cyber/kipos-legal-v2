@@ -290,9 +290,16 @@ described below:
 
 Plant photos you add are stored with our storage provider in a folder scoped to
 your account. Please note that **plant photo links are public-read**: anyone who
-has the specific link to a photo can view it. The links are long and randomly
-generated per plant and are not published, but this is not an access-controlled
-read. Please avoid including sensitive or personally identifying content in plant
+has the specific link to a photo can view it, without signing in and without an
+account. The links contain randomly generated identifiers, and other users
+cannot list or browse your folder, so links are not intended to be discoverable
+by guessing or by browsing our storage. This is still not an access-controlled
+read: treat a photo link like a password, because anyone you send it to can open
+it and can pass it on. We and our storage provider can access your photos where
+that is necessary to operate the Services, including to delete them when you
+delete your account — see
+[How We Disclose Personal Information](#how-we-disclose-personal-information).
+Please avoid including sensitive or personally identifying content in plant
 photos.
 
 Deleting a single plant removes it from your garden, but does not immediately
