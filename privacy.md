@@ -4,7 +4,7 @@ title: Kipos Privacy Policy
 
 # Kipos Privacy Policy
 
-**Effective Date: August 10, 2026**
+**Effective Date: August 14, 2026**
 
 This Privacy Policy (the "Policy") describes how Kipos ("Kipos," "we,"
 "our," or "us") collects, uses, discloses, and otherwise processes your personal
@@ -26,9 +26,13 @@ Terms not defined here have the meaning given in the Terms of Service.
 United States, you should not use the Services if you are under 13 years of age.
 If you reside in the European Economic Area (EEA), Switzerland, or the United
 Kingdom (UK), you should not use the Services if you are under 16 years of age.
-If we become aware that we have collected personal information from a child below
-the applicable age, we will take reasonable steps to delete that information and
-the associated account.
+
+**We do not ask for your date of birth and we do not verify your age**, so we
+have no way to know how old you are unless you tell us. If we become aware that
+we have collected personal information from a child below the applicable age, we
+will take reasonable steps to delete that information and the associated account.
+If you believe a child has given us personal information, contact us at
+**support@getgardenai.com** and we will delete it.
 
 If you reside in the EEA, Switzerland, or the UK, please also see the
 [Additional Information for Certain Jurisdictions](#additional-information-for-certain-jurisdictions)
@@ -133,9 +137,9 @@ requires it, ask for your consent.
 ### Payment Information
 
 Kipos offers a paid subscription with an optional free trial. **Subscriptions
-are sold and processed by the app store you bought them through — the Apple App
-Store — under that platform's own terms.** We do not operate a payment interface,
-and we do not use an independent payment processor.
+are sold and processed by the app store you bought them through, under that
+platform's own terms.** Today that is the Apple App Store. We do not operate a
+payment interface, and we do not use an independent payment processor.
 
 - **We never receive your payment details at all.** You pay Apple using the
   payment method already on your app-store account. Your card number, expiry
@@ -174,8 +178,9 @@ of your information is governed by the
 you to read.
 
 **If we add another store or payment method.** Should Kipos later be sold
-through Google Play or take payment by another route, this Policy will be
-updated before that happens and the relevant provider named here.
+through Google Play or take payment by another route, the same division applies —
+the store takes the payment, we never see the payment details — and this Policy
+will be updated to name the relevant provider before that happens.
 
 ### Aggregated or De-identified Information
 
@@ -347,17 +352,25 @@ is no longer needed, we delete or de-identify it. If you delete your account, we
 will delete or de-identify your personal information within a reasonable period,
 except where retention is required or permitted by law.
 
-**Subscription records are an exception.** Records of your subscription — the
-plan, the dates, and the identifiers tying a purchase to your account — are kept
-for as long as tax, accounting, and anti-fraud law requires (commonly up to seven
-years, and longer where a chargeback, dispute, or legal claim is outstanding),
-even after you delete your account. Records of the payment itself are held by the
-app store, whose retention is governed by its own privacy policy.
+**Subscription records.** When you delete your account we delete our own copy
+of everything, including the record linking your account to a purchase. Records of
+the purchase itself are held by the app store and by our subscription-management
+provider, RevenueCat, under their own retention policies — commonly for as long as
+tax, accounting, and anti-fraud law requires, and longer where a chargeback,
+dispute, or legal claim is outstanding. We cannot delete those on your behalf; the
+app store's and RevenueCat's privacy policies explain how to contact them.
 
 **Anonymous accounts.** An account with no email address attached cannot be
 recovered by us or by you — there is nothing to identify it with. If you lose
-your device, uninstall the app, or clear its data, that garden is gone. Add your
-email if you want your garden kept.
+your device, uninstall the app, or clear its data, that garden is gone.
+
+**We also delete unused anonymous accounts automatically.** If an anonymous
+account has had no activity for **30 days** and holds no plants, no photos, and no
+completed onboarding answers, we delete it and its data permanently. An account
+you are still using is never deleted this way. Adding your email address — or
+signing in with Google or Apple — removes your account from this process entirely
+and is the only way to keep your garden permanently. We may change this period,
+and will update this Policy if we do.
 
 ---
 
@@ -432,11 +445,25 @@ your personal information may be stored or processed outside Canada, including i
 the United States, where it may be accessible to foreign courts and law
 enforcement under the laws of that country.
 
-### United States — California (CCPA/CPRA)
+### United States — state privacy rights
 
-The California Consumer Privacy Act, as amended, gives California residents rights
-regarding their personal information. In the preceding 12 months, we may have
-collected the following categories of personal information:
+If you live in California, Colorado, Connecticut, Delaware, Florida, Indiana,
+Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey,
+Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, your state's privacy
+law gives you rights over your personal information. Depending on your state,
+these include the right to know what we collect and how we use it, to obtain a
+copy, to correct it, to delete it, and to opt out of targeted advertising, the
+sale of personal information, and profiling that produces legal or similarly
+significant effects.
+
+**We do none of those last three.** We do not sell personal information, we do not
+share it for cross-context behavioral advertising or targeted advertising, and we
+do not profile you in a way that produces legal or similarly significant effects —
+so there is nothing for you to opt out of.
+
+Using the categories defined by the California Consumer Privacy Act, as amended,
+in the preceding 12 months we may have collected the following categories of
+personal information:
 
 - **Identifiers** (e.g., email address, device identifiers, IP address).
 - **Internet or other electronic network activity** (e.g., app usage and
@@ -453,9 +480,16 @@ collected the following categories of personal information:
   never passed to us.
 - **Inferences** (e.g., care preferences derived from your plant data).
 
-We do not collect **sensitive personal information** as that term is defined
-under California law, and we do not use or disclose personal information for
-purposes other than those described in this Policy.
+The only **sensitive personal information** we collect, as California law
+defines that term, is your account login credentials — your email address together
+with your password. We use them solely to authenticate you and secure your
+account. We do **not** use or disclose sensitive personal information to infer
+characteristics about you, and we do not use it for any purpose that would give
+you the right to limit its use under California law. We do not collect precise
+geolocation, government identifiers, racial or ethnic origin, religious beliefs,
+health information, biometric data, or the contents of your mail, email, or
+messages. We do not use or disclose personal information for purposes other than
+those described in this Policy.
 
 We collect this information from you directly, automatically through your use of
 the Services, and from service providers, and we use and disclose it for the
@@ -463,11 +497,13 @@ business purposes described in this Policy. **We do not sell personal informatio
 and do not "share" it for cross-context behavioral advertising** as those terms
 are defined under California law.
 
-California residents have the rights to know/access, delete, correct, and opt out
-of any "sale"/"sharing" (not applicable here), and the right not to be
-discriminated against for exercising these rights. To exercise them, contact us at
-**support@getgardenai.com**. You may appeal a decision by replying with "APPEAL"
-in the subject line.
+To exercise any of these rights, contact us at **support@getgardenai.com**. We
+may need to verify your identity before acting on your request, and you may use an
+authorized agent. **If we decline your request, you may appeal by replying with
+"APPEAL" in the subject line**; we will respond with our decision and our reasons,
+and tell you how to contact your state attorney general if you remain
+unsatisfied. We will not discriminate against you for exercising any of these
+rights.
 
 ### European Economic Area, Switzerland, and United Kingdom (GDPR / UK GDPR)
 

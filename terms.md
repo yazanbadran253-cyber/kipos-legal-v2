@@ -4,7 +4,7 @@ title: Kipos Terms of Service
 
 # Kipos Terms of Service
 
-**Effective Date: August 10, 2026**
+**Effective Date: August 14, 2026**
 
 These Terms of Service (the "Terms") are a binding agreement between you and
 Kipos ("Kipos," "we," "our," or "us") governing your use of the Kipos
@@ -40,6 +40,11 @@ or the United Kingdom. If you are under the age of majority in your jurisdiction
 you may use the Services only with the involvement of a parent or guardian who
 agrees to these Terms.
 
+We do not ask for your date of birth and we do not verify your age, so meeting
+this requirement is your responsibility. If we learn that someone below the
+applicable age is using the Services, we will close the account and delete its
+data as described in our Privacy Policy.
+
 You may not use the Services if you are barred from doing so under applicable law,
 or if we have previously terminated your account.
 
@@ -51,6 +56,13 @@ or if we have previously terminated your account.
 you automatically, so your garden can be saved before you sign in. Anonymous
 accounts are not recoverable: if you lose your device, uninstall the app, or clear
 its data before adding a sign-in method, that garden is gone.
+
+**We also delete unused anonymous accounts.** If an anonymous account has been
+inactive for 30 days and holds no plants, no photos and no completed onboarding
+answers, we delete it and its data permanently. An account you are still using is
+never deleted this way, and adding an email address or signing in with Google or
+Apple removes it from this process entirely. Our Privacy Policy describes this in
+full.
 
 **Signing in.** You can convert an anonymous account into a permanent one by
 setting an email address and a password — we send a one-time code to that address
@@ -144,23 +156,23 @@ billing period at the then-current price, until you cancel. **You can cancel at
 any time**, and cancellation takes effect at the end of the period you have
 already paid for.
 
-**How to cancel.** Subscriptions are sold through the Apple App Store, so you
-cancel in that platform's subscription settings — deleting the app does not
-cancel a subscription.
+**How to cancel.** Subscriptions are sold through the app store you downloaded
+Kipos from — currently the Apple App Store. You cancel in that store's
+subscription settings; deleting the app does not cancel a subscription.
 
 **Prices and changes.** Prices are shown in the app before you buy and may vary by
 country and over time. We will give you reasonable advance notice of any price
 change affecting your renewal, and you may cancel before it takes effect.
 
-**Payment.** Payment is taken by the Apple App Store under its own terms, using
-the payment method on your app-store account. We never receive your payment
-details, and we cannot charge you directly. If a payment fails, the store may
-retry it, and we may suspend paid features until it succeeds.
+**Payment.** Payment is taken by that app store under its own terms, using the
+payment method on your app-store account. We never receive your payment details,
+and we cannot charge you directly. If a payment fails, the store may retry it, and
+we may suspend paid features until it succeeds.
 
 **Refunds.** Except where required by law or expressly stated, payments are
 non-refundable and there are no refunds for partial billing periods. Because you
-purchase through the App Store, refunds are requested from and handled by Apple
-under its policies, not by us.
+purchase through an app store, refunds are requested from and handled by that
+store under its policies, not by us.
 
 **Consumers in the EEA and UK.** You generally have a statutory right to withdraw
 from a distance contract within 14 days. Where you ask us to begin providing
@@ -350,6 +362,11 @@ Protection Act, 2002*, and consumers in Quebec keep their rights under the
 *Consumer Protection Act* (Quebec), including any right to bring proceedings in
 their own district.
 
+**Time limit for claims.** Except where applicable law does not permit it, any
+claim arising out of or relating to the Services must be brought within one year
+of the events giving rise to it. This does not shorten any period that mandatory
+consumer law in your country of residence guarantees you.
+
 Before starting formal proceedings, please contact us at
 **support@getgardenai.com** — most issues can be resolved informally, and we will
 try to do so within 30 days.
@@ -371,6 +388,32 @@ them in connection with a merger, acquisition, or sale of assets.
 
 **Force majeure.** We are not liable for failures caused by events beyond our
 reasonable control.
+
+---
+
+## Apple App Store
+
+These Terms are between you and us only, not with Apple, and we alone are
+responsible for Kipos and its content. Apple has no obligation to provide
+maintenance or support for Kipos.
+
+If Kipos fails to conform to any applicable warranty, you may notify Apple and
+Apple will refund the purchase price to you; to the maximum extent permitted by
+law Apple has no other warranty obligation, and any other claims, losses,
+liabilities, damages, costs, or expenses attributable to a failure to conform to a
+warranty are our responsibility.
+
+We, not Apple, are responsible for addressing any claim relating to Kipos,
+including product liability claims, any claim that Kipos fails to conform to a
+legal or regulatory requirement, consumer protection claims, and any third-party
+claim that Kipos infringes intellectual property rights.
+
+You confirm that you are not located in a country subject to a U.S. Government
+embargo or designated as a "terrorist supporting" country, and that you are not
+listed on any U.S. Government list of prohibited or restricted parties.
+
+**Apple and its subsidiaries are third-party beneficiaries of these Terms and have
+the right to enforce them against you.**
 
 ---
 
