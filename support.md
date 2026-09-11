@@ -10,7 +10,7 @@ water and feed each plant.
 If you need help, have a question, or want to report a problem, email us and a
 person will read it.
 
-- **Email:** [support@getgardenai.com](mailto:support@getgardenai.com)
+- **Email:** [support@kipostracker.com](mailto:support@kipostracker.com)
 
 We reply within 2 business days.
 

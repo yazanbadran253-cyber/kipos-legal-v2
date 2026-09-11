@@ -14,7 +14,7 @@ the "Services"), and explains the privacy rights and choices available to you.
 Kipos is operated by Yazan Badran, an individual developer. You can reach us at
 any time:
 
-- **Email:** support@getgardenai.com
+- **Email:** support@kipostracker.com
 - **Post:** 2967 Dundas St. W. #295D, Toronto, ON M6P 1Z2, Canada
 - **Phone:** +1 437 212 8843
 
@@ -32,7 +32,7 @@ have no way to know how old you are unless you tell us. If we become aware that
 we have collected personal information from a child below the applicable age, we
 will take reasonable steps to delete that information and the associated account.
 If you believe a child has given us personal information, contact us at
-**support@getgardenai.com** and we will delete it.
+**support@kipostracker.com** and we will delete it.
 
 If you reside in the EEA, Switzerland, or the UK, please also see the
 [Additional Information for Certain Jurisdictions](#additional-information-for-certain-jurisdictions)
@@ -96,7 +96,6 @@ the Services.
 - **Service usage counters.** We count how many plant scans each account makes
   per day, so that we can enforce a fair-use limit on a feature that costs us
   money to run.
-
 - **Product analytics.** We use **PostHog**, a product-analytics service, to
   understand how the app is used and to find problems. When you use Kipos, the
   app sends PostHog the screens you open, the actions you take (for example
@@ -456,7 +455,7 @@ your personal information:
 - **Non-discrimination** — we will not discriminate against you for exercising
   your rights.
 
-**How to exercise your rights.** Email us at **support@getgardenai.com** with the
+**How to exercise your rights.** Email us at **support@kipostracker.com** with the
 request you would like to make. We may need to verify your identity before acting
 on your request. Where permitted, you may use an authorized agent, in which case
 we will verify the agent's authority.
@@ -482,7 +481,7 @@ provide them to you.
 
 You have the right to access the personal information we hold about you and to
 request correction of anything inaccurate. Contact us at
-**support@getgardenai.com** and we will respond within the time PIPEDA allows.
+**support@kipostracker.com** and we will respond within the time PIPEDA allows.
 If you are not satisfied with our response, you may complain to the
 [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/), or to
 your provincial privacy commissioner where one has jurisdiction.
@@ -545,7 +544,7 @@ business purposes described in this Policy. **We do not sell personal informatio
 and do not "share" it for cross-context behavioral advertising** as those terms
 are defined under California law.
 
-To exercise any of these rights, contact us at **support@getgardenai.com**. We
+To exercise any of these rights, contact us at **support@kipostracker.com**. We
 may need to verify your identity before acting on your request, and you may use an
 authorized agent. **If we decline your request, you may appeal by replying with
 "APPEAL" in the subject line**; we will respond with our decision and our reasons,
@@ -559,7 +558,7 @@ For individuals in the EEA, Switzerland, and the UK:
 
 **Controller.** Kipos, operated by Yazan Badran, is the controller of the
 personal information described in this Policy. You can contact us at
-**support@getgardenai.com**, by post at **2967 Dundas St. W. #295D, Toronto, ON
+**support@kipostracker.com**, by post at **2967 Dundas St. W. #295D, Toronto, ON
 M6P 1Z2, Canada**, or by phone at **+1 437 212 8843**. We have not appointed an
 EU or UK representative; if that changes, this Policy will be updated. The app store acts
 as an independent controller for the payment processing described above.
@@ -615,6 +614,6 @@ If you have any questions or concerns about this Policy or our privacy practices
 please contact us at:
 
 **Kipos**
-Email: **support@getgardenai.com**
+Email: **support@kipostracker.com**
 Post: **2967 Dundas St. W. #295D, Toronto, ON M6P 1Z2, Canada**
 Phone: **+1 437 212 8843**

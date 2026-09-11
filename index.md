@@ -10,4 +10,4 @@ Legal documents for the Kipos plant-care app.
 - [Terms of Service](terms.html)
 - [Support](support.html)
 
-Contact: support@getgardenai.com
+Contact: support@kipostracker.com

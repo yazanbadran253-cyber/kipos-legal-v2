@@ -13,7 +13,7 @@ mobile application and related services (together, the "Services").
 Kipos is operated by Yazan Badran, an individual developer. You can reach us at
 any time:
 
-- **Email:** support@getgardenai.com
+- **Email:** support@kipostracker.com
 - **Post:** 2967 Dundas St. W. #295D, Toronto, ON M6P 1Z2, Canada
 - **Phone:** +1 437 212 8843
 
@@ -81,7 +81,7 @@ it, you can set a new one using a code we email to your address — so access to
 email account is what ultimately protects your Kipos account. If you sign in with
 Google or Apple and later revoke Kipos's access from that provider, or lose access
 to that account, you may be unable to sign in — we recommend adding your email
-address as well. Tell us promptly at **support@getgardenai.com** if you believe
+address as well. Tell us promptly at **support@kipostracker.com** if you believe
 your account has been compromised.
 
 **One account per person.** Please do not create multiple accounts to circumvent
@@ -368,7 +368,7 @@ of the events giving rise to it. This does not shorten any period that mandatory
 consumer law in your country of residence guarantees you.
 
 Before starting formal proceedings, please contact us at
-**support@getgardenai.com** — most issues can be resolved informally, and we will
+**support@kipostracker.com** — most issues can be resolved informally, and we will
 try to do so within 30 days.
 
 ---
@@ -432,6 +432,6 @@ Services and delete your account.
 Questions about these Terms:
 
 **Kipos**
-Email: **support@getgardenai.com**
+Email: **support@kipostracker.com**
 Post: **2967 Dundas St. W. #295D, Toronto, ON M6P 1Z2, Canada**
 Phone: **+1 437 212 8843**
