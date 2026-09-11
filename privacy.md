@@ -4,7 +4,7 @@ title: Kipos Privacy Policy
 
 # Kipos Privacy Policy
 
-**Effective Date: August 14, 2026**
+**Effective Date: September 11, 2026**
 
 This Privacy Policy (the "Policy") describes how Kipos ("Kipos," "we,"
 "our," or "us") collects, uses, discloses, and otherwise processes your personal
@@ -97,12 +97,42 @@ the Services.
   per day, so that we can enforce a fair-use limit on a feature that costs us
   money to run.
 
-**No third-party analytics or advertising.** Kipos is a **native mobile app**
-and does not use website cookies. As of the Effective Date above, the app
-contains **no third-party analytics, attribution, or advertising SDKs**, and we
-do not track you across other apps or websites. If we ever add an analytics or
-crash-reporting provider, we will update this Policy first and, where the law
-requires it, ask for your consent.
+- **Product analytics.** We use **PostHog**, a product-analytics service, to
+  understand how the app is used and to find problems. When you use Kipos, the
+  app sends PostHog the screens you open, the actions you take (for example
+  "started a plant scan" or "logged a watering"), and a small set of technical
+  details: app version, operating system and version, language, time zone, and
+  screen size. It does **not** send your email address, your name, your plant
+  names or notes, your photos, the text you type, or your device model. Counts
+  are sent as ranges and errors as categories, not as their contents. Until you
+  save your progress, this activity is tied to a random identifier that PostHog
+  generates; once you sign in, it is tied to your Kipos account identifier —
+  never your email — so that one account's activity is seen as one. PostHog
+  works out your **country and city from your IP address and then discards the
+  address**; it does not keep your IP. Our own servers also report the outcome
+  of each plant-identification and care-plan request — how long it took,
+  whether it succeeded, and how much AI capacity it used — but never the photo,
+  your answers, or the result.
+- **Session replay.** For a small sample of sessions — at most **1 in 10** in
+  the released app — PostHog also records a short screen replay: taps,
+  scrolling, and timing, so we can see how a screen behaves. Replay runs on a
+  limited set of screens and never on sign-in, camera, scan-result,
+  subscription, or account screens. **Everything you type and every image is
+  hidden in the recording before it leaves your device.** Console logs and
+  network traffic are not recorded. Replays are deleted after **30 days**.
+- **Your control.** The **Share analytics** switch on your Profile screen turns
+  both of these off at any time. Turning it off stops collection immediately;
+  it does not delete what was already collected, which ages out on the schedule
+  under [How Long We Keep Your Information](#how-long-we-keep-your-information).
+  If you have signed in, deleting your account also deletes your PostHog
+  profile and its recordings; an anonymous account's activity is tied only to
+  the random identifier above and ages out on the same schedule. The switch is
+  kept on your device, so it stays off after you sign out or delete your
+  account.
+
+**No advertising or cross-app tracking.** Kipos is a **native mobile app** and
+does not use website cookies. It contains no advertising or attribution SDKs,
+and we do not track you across other apps or websites.
 
 ### Information From Third Parties
 
@@ -262,9 +292,13 @@ described below:
 - **Service providers.** We share information with vendors who process it on our
   behalf to run the Services, including our backend, database, authentication and
   photo-storage host (**Supabase**), our AI provider for plant identification and
-  care personalization (**Anthropic**), and our email delivery provider
-  (**Resend**), which sends the one-time codes described above. These vendors are
-  permitted to use the information only to provide services to us.
+  care personalization (**Anthropic**), our email delivery provider
+  (**Resend**), which sends the one-time codes described above, and our
+  product-analytics provider (**PostHog**), which receives the usage data and
+  sampled screen replays described under
+  [Information We Collect Automatically](#information-we-collect-automatically).
+  These vendors are permitted to use the information only to provide services
+  to us.
 - **App store and subscription-management provider.** We share the information
   described under [Payment Information](#payment-information) with **RevenueCat**
   so that it can tell the app whether your subscription is active. Your payment
@@ -323,6 +357,11 @@ device and shared only where you choose to send it.
   (scanning and adding plant photos) will not work without them.
 - **Notifications.** You can turn plant-care reminders on or off in the app and
   manage notification permissions in your device settings.
+- **Analytics.** The **Share analytics** switch on your Profile screen turns
+  product analytics and session replay off. It takes effect immediately, stays
+  off after you sign out or delete your account, and you can turn it back on at
+  any time. See
+  [Information We Collect Automatically](#information-we-collect-automatically).
 - **Subscription.** You can cancel your subscription at any time, which stops
   future charges. Because your subscription is bought through the app store,
   cancel it in that platform's subscription settings — deleting the app does not
@@ -360,6 +399,12 @@ tax, accounting, and anti-fraud law requires, and longer where a chargeback,
 dispute, or legal claim is outstanding. We cannot delete those on your behalf; the
 app store's and RevenueCat's privacy policies explain how to contact them.
 
+**Analytics data.** PostHog keeps analytics events for up to **one year** and
+session replays for **30 days**, then deletes them. When you delete an account
+you had signed in to, we ask PostHog to delete your profile and its recordings
+sooner — normally within a day. Turning off Share analytics stops new
+collection but does not shorten these periods for data already collected.
+
 **Anonymous accounts.** An account with no email address attached cannot be
 recovered by us or by you — there is nothing to identify it with. If you lose
 your device, uninstall the app, or clear its data, that garden is gone.
@@ -383,9 +428,11 @@ borders, we take steps to ensure it remains protected in accordance with
 applicable law. By using the Services, you understand that your personal
 information may be transferred to countries outside your country of residence.
 
-Our subscription-management provider, RevenueCat, is based in the United States,
-and the app store that takes your payment operates globally and transfers
-payment information internationally. Each relies on its own transfer safeguards,
+Our subscription-management provider, RevenueCat, is based in the United States;
+our product-analytics provider, PostHog, stores analytics data and screen
+replays in the United States (Virginia); and the app store that takes your
+payment operates globally and transfers payment information internationally.
+Each relies on its own transfer safeguards,
 such as the European Commission's Standard Contractual Clauses (with the UK
 Addendum where applicable) and, where applicable, certification under the
 EU–U.S., UK, and Swiss–U.S. Data Privacy Frameworks.
@@ -467,7 +514,8 @@ personal information:
 
 - **Identifiers** (e.g., email address, device identifiers, IP address).
 - **Internet or other electronic network activity** (e.g., app usage and
-  interaction data).
+  interaction data, and sampled screen replays with typed text and images
+  masked).
 - **Geolocation data** (approximate location only: a general, city-level area
   inferred from your IP address, and the climate or frost band you tell us you
   garden in. We do not collect precise GPS location).
@@ -525,8 +573,9 @@ information:
 - **Consent** — for camera/photo access, notifications, and any processing that
   requires consent. You may withdraw consent at any time.
 - **Legitimate interests** — to secure the Services, prevent abuse, understand
-  usage, and improve our features, where those interests are not overridden by
-  your rights.
+  usage through product analytics and sampled session replay (which you can
+  switch off in the app at any time), and improve our features, where those
+  interests are not overridden by your rights.
 - **Legal obligation** — to comply with applicable law and respond to lawful
   requests, including tax, accounting, and anti-money-laundering obligations
   attached to payments.
