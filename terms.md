@@ -4,7 +4,7 @@ title: Kipos Terms of Service
 
 # Kipos Terms of Service
 
-**Effective Date: August 14, 2026**
+**Effective Date: September 26, 2026**
 
 These Terms of Service (the "Terms") are a binding agreement between you and
 Kipos ("Kipos," "we," "our," or "us") governing your use of the Kipos
@@ -97,10 +97,12 @@ data cannot be recovered afterwards.
 
 This section is important. Please read it in full.
 
-Kipos uses artificial intelligence to identify plants from photographs, to
-generate care plans and reminders, and to score how well the plants in your
-garden suit one another. These features are provided **for general informational
-and horticultural purposes only**.
+**The current version of Kipos is a record of the care you give your plants. It
+does not identify plants or give care advice.** App versions 1.1.2 and earlier
+used artificial intelligence to identify plants from photographs, to generate
+care plans, and to score how well the plants in your garden suit one another.
+This section applies to anyone still using those features. They are provided
+**for general informational and horticultural purposes only**.
 
 **Identifications and guidance can be wrong.** Plant identification from a
 photograph is inherently uncertain. Many plants closely resemble one another, and
@@ -142,8 +144,8 @@ protected, invasive, controlled, or quarantined species.
 
 ## Subscriptions, Free Trials, and Payment
 
-**Kipos is a paid subscription app.** After you set up your first plant and
-see your care plan, continuing to use the Services requires an active
+**Kipos is a paid subscription app.** After you set up your first plant,
+continuing to use the Services requires an active
 subscription or a running free trial. There is no permanently free tier.
 
 **Free trial.** We may offer a free trial. Unless you cancel before the trial
@@ -298,8 +300,8 @@ particular purpose, title, non-infringement, and any warranty arising from cours
 of dealing or usage of trade.
 
 We do not warrant that the Services will meet your requirements, that plant
-identifications or care guidance will be accurate or complete, that your plants
-will thrive, or that any defect will be corrected.
+identifications or care guidance in older app versions will be accurate or
+complete, that your plants will thrive, or that any defect will be corrected.
 
 Some jurisdictions do not allow the exclusion of implied warranties, so parts of
 this section may not apply to you.
